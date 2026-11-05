@@ -24,6 +24,7 @@
     "@dynamic-labs/ethereum-core": "4.100.3",
     "@dynamic-labs/sdk-react-core": "4.100.3",
     "@envio-dev/hypersync-client": "1.4.1",
+    "@vercel/analytics": "^2.0.1",
     "ethers": "6.17.0",
     "js-sha3": "0.13.0",
     "next": "16.4.0",
